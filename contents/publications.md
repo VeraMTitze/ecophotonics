@@ -1,16 +1,13 @@
-#### Submitted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
+<strong>V. M. Titze<strong>*, S. Caixeiro, V. S. Dinh, M. König, M. Rübsam, N. Pathak, A.-L. Schumacher, M. Germer, C. Kukat, C. M. Niessen, M. Schubert*, M. C. Gather*. Hyperspectral confocal imaging for high-throughput readout and analysis of bio-integrated microlasers. Nature Protocols 19, 928–959 (2024) [[Paper]](https://doi.org/10.1038/s41596-023-00924-6)
+<strong>V. M. Titze<strong>, S. Caixeiro, A. Di Falco, M. Schubert*, M. C. Gather*. Red-Shifted Excitation and Two-Photon Pumping of Biointegrated GaInP/AlGaInP Quantum Well Microlasers. ACS photonics 9, 952-960 (2022) [[Paper]](https://doi.org/10.1021/acsphotonics.1c01807)
+S. Humphrey, X. He, T. Priemel, <strong>V. M. Titze<strong>, S. Perea-Puente, V. Subramanian, C. Bouchet-Marquis, B. Jesus, S. Vignolini. Nudibranch color diversity shares a common physical basis in guanine photonic structure 'pixels'. Proceedings of the National Academy of Sciences, xxx (2026). 
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+#### Software
+<strong>V. M. Titze<strong>, S. Caixeiro, M. Schubert, M. C. Gather. GatherLab/sphyncs. (2023) 
+[[Code]](https://doi.org/10.5281/zenodo.8121099)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+#### Submitted
+<strong>V. M. Titze<strong>*, J. Reichert, M. Schubert, M. C. Gather*. Monitoring microplastics in live reef-building corals with microscopic laser particles. Preprint: [[Preprint]](https://doi.org/10.48550/arXiv.2502.20014)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+D. Ripp, N. Pathak, V. M. Titze, A. Mischok. M. Schubert. Purely equatorial lasing in spherical liquid crystal polymer microlasers with engineered refractive index gradient. [[Preprint]](https://doi.org/10.48550/arXiv.2601.12673)
