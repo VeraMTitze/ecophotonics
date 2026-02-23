@@ -1,2 +1,1 @@
-### About me
-coming soon
+We are a young lab at the Max Planck Institute of Colloids and Interfaces, working on the interface of photonics, biotechnology, and materials science. Funded by a Minerva FastTrack fellowship to Vera Titze, our group will start in March 2026. Scroll below to hear about our research and recent activities.
