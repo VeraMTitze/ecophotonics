@@ -2,4 +2,4 @@
 Vera M. Titze, Ph.D.
 
 ### M.Sc. students
-Ana Karina Riano Gutierrez
+Ana Karina Riano Gutierrez, B.Sc.
