@@ -28,16 +28,16 @@ Unsere Studie(11) kombiniert zum ersten Mal Barcoding- und Sensormechanismen von
 In der Verwendung von Mikroplastik-Lasern in der Mikroplastikforschung wurde ein spannender neuer Anwendungsbereich von Mikrolasern erschlossen. Korallen sind nur ein, wenn auch sehr wichtiges, Beispiel der Organismen, die von dieser Methode zur Verfolgung von Mikroplastikpartikeln profitieren können. Durch meine Beiträge zur optischen Anregung von Mikrolasern(8) und zur Aufzeichnung der Mikrolasersignale(7, 9) wurde der Weg zu einer breiteren Anwendung dieser aufstrebenden Technologie geebnet. Diese fortschrittliche Methode aus der Nanobiophotonik wird damit für andere Forschungsbereiche nutzbar und kann langfristig dazu beitragen, unser Verständnis der Interaktion von Lebewesen mit Mikroplastik zu verbessern. Für die Zukunft erhoffe ich mir auch, dass meine Arbeit den Grundstein legt für eine intensivere interdisziplinäre Zusammenarbeit an der Schnittstelle zwischen Meeresbiologie und -ökologie und der Optik, um fachbereichsübergreifend neue Erkenntnisse zu gewinnen, die der Erhaltung unserer Ökosysteme dienen.
 
 ##### Literaturverzeichnis
-1. 	J. Reichert et al., Environmental Pollution. 290, 118010 (2021).
-2. 	J. B. Axworthy, J. L. Padilla-Gamiño, Sci. Rep. 9, 1–8 (2019).
-3. 	J. Reichert et al., Glob. Chang. Biol. 28, 33–45 (2022).
-4. 	A. H. Fikouras et al., Nat. Commun. 9, 4817 (2018).
-5. 	M. Schubert et al., Nat. Photonics. 14, 452–458 (2020).
-6. 	N. Martino et al., Nat. Photonics. 13, 720–727 (2019).
-7. 	V. M. Titze et al., Nat. Protoc. 19, 928–959 (2024).
-8. 	V. M. Titze, S. Caixeiro, A. Di Falco, M. Schubert, M. C. Gather, ACS Photonics. 9, 952–960 (2022).
-9. 	V. M. Titze, S. Caixeiro, M. Schubert, M. C. Gather, GatherLab/sphyncs (Zenodo, 2023).
+1. J. Reichert et al., Environmental Pollution. 290, 118010 (2021).
+2. J. B. Axworthy, J. L. Padilla-Gamiño, Sci. Rep. 9, 1–8 (2019).
+3. J. Reichert et al., Glob. Chang. Biol. 28, 33–45 (2022).
+4. A. H. Fikouras et al., Nat. Commun. 9, 4817 (2018).
+5. M. Schubert et al., Nat. Photonics. 14, 452–458 (2020).
+6. N. Martino et al., Nat. Photonics. 13, 720–727 (2019).
+7. V. M. Titze et al., Nat. Protoc. 19, 928–959 (2024).
+8. V. M. Titze, S. Caixeiro, A. Di Falco, M. Schubert, M. C. Gather, ACS Photonics. 9, 952–960 (2022).
+9. V. M. Titze, S. Caixeiro, M. Schubert, M. C. Gather, GatherLab/sphyncs (Zenodo, 2023).
 10. J. Reichert et al., Science of The Total Environment. 913, 169485 (2024).
-11. V. M. Titze, J. Reichert, M. Schubert, M. C. Gather, (2025) (available at http://arxiv.org/abs/2502.20014).
+11. V. M. Titze, J. Reichert, M. Schubert, M. C. Gather, 2502.20014 arXiv (2025).
  
 
