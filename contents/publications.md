@@ -4,9 +4,9 @@
 
 <strong>V. M. Titze</strong>, S. Caixeiro, A. Di Falco, M. Schubert*, M. C. Gather*. Red-Shifted Excitation and Two-Photon Pumping of Biointegrated GaInP/AlGaInP Quantum Well Microlasers. *ACS photonics* 9, 952-960 (2022) [[Paper]](https://doi.org/10.1021/acsphotonics.1c01807)
 
-S. Humphrey, X. He, T. Priemel, <strong>V. M. Titze</strong>, S. Perea-Puente, V. Subramanian, C. Bouchet-Marquis, B. Jesus, S. Vignolini. Nudibranch color diversity shares a common physical basis in guanine photonic structure 'pixels'. *Proceedings of the National Academy of Sciences*, xxx (2026). 
+S. Humphrey, X. He, T. Priemel, <strong>V. M. Titze</strong>, S. Perea-Puente, V. Subramanian, C. Bouchet-Marquis, B. Jesus, S. Vignolini. Nudibranch color diversity shares a common physical basis in guanine photonic structure 'pixels'. (in press). 
 
-#### Software
+#### Open-source Software
 <strong>V. M. Titze</strong>, S. Caixeiro, M. Schubert, M. C. Gather. GatherLab/sphyncs. *Zenodo* (2023) 
 [[Code]](https://doi.org/10.5281/zenodo.8121099)
 
