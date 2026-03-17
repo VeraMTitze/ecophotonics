@@ -1,10 +1,10 @@
 #### Published
 
+S. Humphrey, X. He, T. Priemel, <strong>V. M. Titze</strong>, S. Perea-Puente, V. Subramanian, C. Bouchet-Marquis, B. Jesus, S. Vignolini. Nudibranch color diversity shares a common physical basis in guanine photonic structure 'pixels'. *PNAS* xxx (2025) [[Paper]](https://doi.org/10.1073/pnas.2525419123) 
+
 <strong>V. M. Titze</strong>\*, S. Caixeiro, V. S. Dinh, M. König, M. Rübsam, N. Pathak, A.-L. Schumacher, M. Germer, C. Kukat, C. M. Niessen, M. Schubert*, M. C. Gather*. Hyperspectral confocal imaging for high-throughput readout and analysis of bio-integrated microlasers. *Nature Protocols* 19, 928–959 (2024) [[Paper]](https://doi.org/10.1038/s41596-023-00924-6)
 
 <strong>V. M. Titze</strong>, S. Caixeiro, A. Di Falco, M. Schubert*, M. C. Gather*. Red-Shifted Excitation and Two-Photon Pumping of Biointegrated GaInP/AlGaInP Quantum Well Microlasers. *ACS photonics* 9, 952-960 (2022) [[Paper]](https://doi.org/10.1021/acsphotonics.1c01807)
-
-S. Humphrey, X. He, T. Priemel, <strong>V. M. Titze</strong>, S. Perea-Puente, V. Subramanian, C. Bouchet-Marquis, B. Jesus, S. Vignolini. Nudibranch color diversity shares a common physical basis in guanine photonic structure 'pixels'. (in press). 
 
 #### Open-source Software
 <strong>V. M. Titze</strong>, S. Caixeiro, M. Schubert, M. C. Gather. GatherLab/sphyncs. *Zenodo* (2023) 
