@@ -1,6 +1,6 @@
 #### Published
 
-S. Humphrey, X. He, T. Priemel, <strong>V. M. Titze</strong>, S. Perea-Puente, V. Subramanian, C. Bouchet-Marquis, B. Jesus, S. Vignolini. Nudibranch color diversity shares a common physical basis in guanine photonic structure 'pixels'. *PNAS* xxx (2025) [[Paper]](https://doi.org/10.1073/pnas.2525419123) 
+S. Humphrey, X. He, T. Priemel, <strong>V. M. Titze</strong>, S. Perea-Puente, V. Subramanian, C. Bouchet-Marquis, B. Jesus, S. Vignolini. Nudibranch color diversity shares a common physical basis in guanine photonic structure 'pixels'. *PNAS* 123 (12) e2525419123 (2026) [[Paper]](https://doi.org/10.1073/pnas.2525419123) 
 
 <strong>V. M. Titze</strong>\*, S. Caixeiro, V. S. Dinh, M. König, M. Rübsam, N. Pathak, A.-L. Schumacher, M. Germer, C. Kukat, C. M. Niessen, M. Schubert*, M. C. Gather*. Hyperspectral confocal imaging for high-throughput readout and analysis of bio-integrated microlasers. *Nature Protocols* 19, 928–959 (2024) [[Paper]](https://doi.org/10.1038/s41596-023-00924-6)
 
