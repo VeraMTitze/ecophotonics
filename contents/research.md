@@ -1,4 +1,4 @@
-## Bio-based and lving matter for functional photonics
+## Bio-based and living matter for functional photonics
 Below you can find an overview of ongoing research activities in our group.
 
 ### Biointegrated photonic sensors
