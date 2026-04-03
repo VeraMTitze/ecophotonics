@@ -1,5 +1,5 @@
 ### Bio-based and living matter for functional photonics
-Our research focuses on developing bio-integrated photonic systems to probe, control, and engineer light-matter interactions in living and bio-inspired materials. By understanding how living systems process light and adapt to their environment, we unlock new functions in sustainable materials from nature's building blocks.
+Our research focuses on developing bio-integrated photonic systems to probe, control, and engineer light-matter interactions in living and bio-inspired materials. By understanding how living systems process light and adapt to their environment, we aim to unlock new functions in sustainable materials derived from nature's building blocks.
 
 #### Biointegrated photonic sensors
 Controlling light-matter interactions at the micro- and nanoscale allows using light to probe biological systems. 
