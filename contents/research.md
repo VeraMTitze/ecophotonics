@@ -7,7 +7,7 @@ We develop photonic sensors including microscopic laser particles to study livin
 
 #### Light management in living systems
 Nature has evolved fascinating nanostructures and adaptive strategies for managing and processing light.
-With a combination of custom imaging tools and simulation workflows, we explore the strategies marine organisms use to use light effectively in changing conditions.
+With a combination of custom imaging tools and simulation workflows, we explore the strategies marine organisms developed to use light effectively in changing conditions.
 
 #### Bio-hybrid and bio-based materials for light emission
 Biological materials like fluorescent proteins or bioluminescent compounds help us to engineer sustainable and functional light-emitting devices.
