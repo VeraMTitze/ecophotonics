@@ -11,7 +11,7 @@ With a combination of custom imaging tools and simulation workflows, we explore 
 
 #### Bio-hybrid and bio-based materials for light emission
 Biological materials like fluorescent proteins or bioluminescent compounds help us to engineer sustainable and functional light-emitting devices.
-Understanding the intrinsic strengths of microorganisms like marine algae and bacteria helps us to make biohybrid materials more powerful.
+Understanding the intrinsic strengths of microorganisms like marine algae and bacteria helps us to enhance the functionality of biohybrid materials.
 
 #### Research methods
 We specialise in the following tools:
