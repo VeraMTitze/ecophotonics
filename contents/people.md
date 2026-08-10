@@ -1,7 +1,7 @@
 #### Head of the group
 Dr. Vera M. Titze <a href="/static/assets/CV-Vera-public.pdf" target="_blank">CV</a> [vera.titze(at)mpikg.mpg.de](mailto:)
 
-#### M.Sc. & B.Sc. students
+#### M.Sc. and B.Sc. students
 Ana Karina Riano Gutierrez
 
 #### Project students, visitors, and interns
