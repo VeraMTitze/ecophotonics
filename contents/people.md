@@ -4,7 +4,7 @@ Dr. Vera M. Titze <a href="/static/assets/CV-Vera-public.pdf" target="_blank">CV
 #### M.Sc. & B.Sc. students
 Ana Karina Riano Gutierrez
 
-#### Project students, visitos, and interns
+#### Project students, visitors, and interns
 Maerpreet Arora<br>
 Vinay Ananda
 
